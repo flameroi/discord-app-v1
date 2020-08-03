@@ -1,1 +1,3 @@
-# discord-app-v1
+# discord-bot-v1
+
+Тестовая реализация бота.
